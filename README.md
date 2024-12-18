@@ -21,13 +21,29 @@ The Power BI Dashboard includes the following metrics and visuals:
 
 ---
 
-### **Files in This Repository**
 
-1. **netflix_dashboard.pbix**: The Power BI file containing the dashboard.
-2. **netflix.png**: Screenshot of the dashboard for reference.
-3. **README.md**: Documentation for the project.
+### **Preview of Dashboard**
+
+![Dashboard Preview](netflix.png)
 
 ---
+
+### **Files in This Repository**
+
+1. **Power BI File**: [Download the Power BI Dashboard](Netflix.pbix)  
+   This file contains the complete Power BI dashboard.
+
+2. **Dashboard Image**: [View Dashboard Screenshot](netflix.png)  
+   A snapshot of the dashboard.
+
+---
+
+### **How to Use**
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/anilamrute/netflix-dashboard.git
+
 
 ### **Data Source**
 
